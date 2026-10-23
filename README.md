@@ -1,6 +1,6 @@
 # C String Library & s21_sprintf (School 21)
 
-A custom implementation of the standard C `<string.h>` library and the `sprintf` function from `<stdio.h>`. This project was developed as a team project as part of the School 21 (42) curriculum.
+A custom implementation of the standard C `<string.h>` library and the `sprintf` function from `<stdio.h>`. This project was developed as a team project as part of the School 21 curriculum.
 
 The main goal is to deeply understand memory management, pointer arithmetic, variadic functions (`va_list`), and string parsing in C.
 
